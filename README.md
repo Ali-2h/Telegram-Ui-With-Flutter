@@ -1,6 +1,6 @@
 # telegram
 
-A new Flutter project.
+Telegram Ui.
 
 ## Getting Started
 
