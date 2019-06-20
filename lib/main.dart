@@ -36,7 +36,7 @@ void main() {
                   SizedBox(height: 5,),
                   Row(
                     children: <Widget>[
-                      Text('+98 9198933039',
+                      Text('+98 9123456789',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 15,
